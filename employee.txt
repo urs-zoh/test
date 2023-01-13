@@ -1,3 +1,4 @@
-Class employee{
-	
+Class Employee{
+Public:
+	Employee();
 }
